@@ -1,0 +1,24 @@
+exampleTopic
+example Text for this cal
+exampleSender
+exampleMail2@gmail.com
+exampleRecipient
+exampleMail2@gmail.com
+1
+0
+exampleTopic
+exampleText
+exampleSender
+exampleMail1@gmail.com
+exampleRecipient
+exampleMail1@gmail.com
+2
+1
+exampleTopic
+exampleText
+exampleSender
+exampleMail3@gmail.com
+exampleRecipient
+exampleMail3@gmail.com
+2
+0
